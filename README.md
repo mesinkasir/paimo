@@ -2,7 +2,7 @@
 
 --------
 
-A bludit burger website template themes Free and open source code with simple clean black white concept.
+A bludit flatfile cms website template themes Free and open source code with simple clean black white concept.
 
 Flatfile cms no database super fast and secure include backend admin.
 
