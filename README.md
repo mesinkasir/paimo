@@ -6,9 +6,14 @@ A bludit flatfile cms website template themes Free and open source code with sim
 
 Flatfile cms no database super fast and secure include backend admin.
 
-Home page
+If you need built simple fast website with flatfile cms [hire me](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
+
+
+--------
 
 ![Free download bludit template](banner.webp)
+
+--------
 
 Test Peform
 
