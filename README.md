@@ -6,6 +6,12 @@ A bludit flatfile cms website template themes Free and open source code with sim
 
 Flatfile cms no database super fast and secure include backend admin.
 
+Demo : [https://axcora.my.id/bludit/paimo/](https://axcora.my.id/bludit/paimo/)
+
+Documentation : [https://axcora.my.id/bludit/paimo/installation](https://axcora.my.id/bludit/paimo/installation)
+
+Home page : [https://bludit.axcora.com/](https://bludit.axcora.com/)
+
 If you need built simple fast website with flatfile cms [hire me](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
 
 
